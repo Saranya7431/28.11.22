@@ -1,0 +1,4 @@
+balance=50000
+amount=int(input('Enter amount to be credited:'))
+print('Credited amount:',amount)
+print('Total Balance:',balance+amount)
